@@ -1,1 +1,0 @@
-zip -r ex3_mlrcv_submission.zip mlrcv/*.py  ex3_logistic_regression.ipynb
