@@ -1,12 +1,25 @@
-# Machine-Learning-for-Robotics-and-Computer-Vision
+# Assignment Topic
 
-This repository contains assignments as follows:
-1.1 dsfkn
+Provide a brief description of the assignment topic.
+
+## Exercises
+
+### 1. Exercise Name 1
+
+Description of the first exercise.
+
+### 2. Exercise Name 2
+
+Description of the second exercise.
+
+<!-- Add more exercises as needed -->
 
 
-# 1. Project Title
 
-1.1 Short description of your project.
+# 1. Machine-Learning-for-Robotics-and-Computer-Vision
+
+1.1 This repository contains assignments as follows:
+
 
 ## 2. Table of Contents
 
