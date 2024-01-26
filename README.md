@@ -1,4 +1,4 @@
 # Machine-Learning-for-Robotics-and-Computer-Vision
 
-This respository contains assignments as follows:
-1.
+This repository contains assignments as follows:
+1.1 dsfkn
