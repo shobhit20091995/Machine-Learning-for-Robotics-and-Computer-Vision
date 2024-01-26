@@ -1,0 +1,1 @@
+zip -r ex8_mlrcv_submission.zip mlrcv/*.py mlrcv/classifiers/*.py Part1_FullyConnectedNets.ipynb Part2_ConvolutionalNetworks.ipynb
